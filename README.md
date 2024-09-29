@@ -1,4 +1,4 @@
----
+
 <h1 align="center">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Juan Orozco</h1>
 
 <div align="center" width="50">
@@ -43,7 +43,3 @@
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JDCodeWork)](https://github.com/JDCodeWork/github-profile-trophy)
-
----
-
-¿Qué opinas? ¿Te gustaría modificar algo?
