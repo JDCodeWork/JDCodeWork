@@ -13,11 +13,10 @@
 
 ## Sobre mí:
 
-- 💻 Desarrollador Front-end con sólida experiencia en Back-end.
+- 💻 Desarrollador Front-end con experiencia en Back-end.
 - ⚙️ Tecnologías: **TypeScript**, **ReactJS**, **Astro**, **ExpressJS**, **NestJS**.
 - 🎓 Autodidacta apasionado, siempre explorando nuevas tecnologías.
-- 🎯 Apasionado por mejorar y optimizar procesos en el desarrollo de software.
-- 🎉 Fun Facts: 💻 🎮 📚 ☕ 🚀
+- 🎉 Fun Facts: 💻 🎮 📚 🚀
 
 <br>
 
