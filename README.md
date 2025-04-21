@@ -14,9 +14,9 @@
 ## About Me:
 
 - 💻 Front-end developer with Back-end experience.
-- ⚙️ Technologies: **TypeScript**, **ReactJS**, **Astro**, **ExpressJS**, **NestJS**.
+- ⚙️ Technologies: **TypeScript**, **ReactJS**, **Astro**, **NextJs**, **ExpressJS**, **NestJS**.
 - 🎓 Always exploring new technologies.
-- 🎉 Fun Facts: 💻 🎮 📚 🚀
+- 🎉 Fun Facts: 💻 📚 🚀
 
 <br>
 
@@ -40,5 +40,5 @@
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JDCodeWork&theme=algolia)](https://git.io/streak-stats) 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdcodework&show_icons=true&locale=en&layout=compact&theme=algolia" alt="jdcodework" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JDCodeWork&show_icons=true&locale=en&layout=compact&theme=algolia" alt="jdcodework" /></p>
 
