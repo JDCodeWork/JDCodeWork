@@ -7,6 +7,7 @@
 
 <h3 align="center">Self-taught developer passionate about software development</h3>
 <p align="center">Systems and Computing Engineering student at the National University of Colombia. Passionate about technology, with a strong interest in both front-end and back-end web development.</p>
+
 - 👨‍💻 All my projects are available at [jdcode.work](https://jdcode.work/)
 - 📫 You can contact me at **contacto@jdcode.work**
 <br>
