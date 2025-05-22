@@ -41,7 +41,7 @@
 ## My GitHub Stats 📊:
 
 <br>
-
-<p aling="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=JDCodeWork&theme=algolia" alt="jdcodework"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JDCodeWork&show_icons=true&locale=en&layout=compact&theme=algolia" alt="jdcodework" /></p><p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDCodeWork&theme=github_dark" alt="jdcodework"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JDCodeWork&show_icons=true&locale=en&layout=compact&theme=algolia" alt="jdcodework" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=JDCodeWork&theme=algolia" alt="jdcodework"/></p>
+<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDCodeWork&theme=github_dark" alt="jdcodework"/></p>
 
