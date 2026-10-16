@@ -9,7 +9,7 @@
 <p align="center">Systems and Computing Engineering student at the National University of Colombia. Passionate about technology, with a strong interest in both front-end and back-end web development.</p>
 
 - 👨‍💻 All my projects are available at [jdcode.work](https://jdcode-work.netlify.app)
-- 📫 You can contact me at **contacto@jdcode.work**
+- 📫 You can contact me at **jdorozco.codework@gmail.com**
 <br>
 
 ## About Me:
@@ -17,7 +17,7 @@
 
 
 - 💻 Front-end developer with Back-end experience.
-- ⚙️ Technologies: **TypeScript**, **ReactJS**, **Astro**, **NextJs**, **ExpressJS**, **NestJS**.
+- ⚙️ Technologies: **TypeScript**, **ReactJS**, **Astro**, **NextJs**, **ExpressJS**, **NestJS**, **Rust**.
 - 🎓 Always exploring new technologies.
 - 🎉 Fun Facts: 💻 📚 🚀
 
